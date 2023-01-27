@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,MERN**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 
 - 📫 How to reach me **shantanup480@gmail.com**
 
