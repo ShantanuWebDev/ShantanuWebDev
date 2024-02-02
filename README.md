@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 
-- 📫 How to reach me **shantanup480@gmail.com**
+- 📫 Reach me at **shantanup480@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
