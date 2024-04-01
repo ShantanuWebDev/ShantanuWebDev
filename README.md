@@ -8,6 +8,8 @@
 
 - 📫 Reach me at **shantanup480@gmail.com**
 
+- Profile Views :  [![HitCount](https://hits.dwyl.com/ShantanuWebDev/ShantanuWebDev.svg?style=flat-square)](http://hits.dwyl.com/ShantanuWebDev/ShantanuWebDev)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
