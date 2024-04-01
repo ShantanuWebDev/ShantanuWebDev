@@ -8,7 +8,7 @@
 
 - 📫 Reach me at **shantanup480@gmail.com**
 
-- ![](https://komarev.com/ghpvc/?username=swapnil2072)
+- ![](https://komarev.com/ghpvc/?username=ShantanuWebDev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
